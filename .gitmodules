@@ -1,0 +1,6 @@
+[submodule "nomisIV-arch-config"]
+	path = nomisIV-arch-config
+	url = https://github.com/NomisIV/arch-config
+[submodule "anachron-i3blocks"]
+	path = anachron-i3blocks
+	url = https://github.com/Anachron/i3blocks
