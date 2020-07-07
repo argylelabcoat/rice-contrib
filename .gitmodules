@@ -4,3 +4,27 @@
 [submodule "anachron-i3blocks"]
 	path = anachron-i3blocks
 	url = https://github.com/Anachron/i3blocks
+[submodule "tmuxline.vim"]
+	path = tmuxline.vim
+	url = https://github.com/edkolev/tmuxline.vim
+[submodule "night-owl.vim"]
+	path = night-owl.vim
+	url = https://github.com/haishanh/night-owl.vim
+[submodule "alacritty-night-owl-colors"]
+	path = alacritty-night-owl-colors
+	url = https://github.com/calimaborges/alacritty-night-owl-colors
+[submodule "pathpicker"]
+	path = pathpicker
+	url = https://github.com/facebook/pathpicker/
+[submodule "tmux-open"]
+	path = tmux-open
+	url = https://github.com/tmux-plugins/tmux-open
+[submodule "tmux-tasks"]
+	path = tmux-tasks
+	url = https://github.com/chriszarate/tmux-tasks
+[submodule "tmux-plugin-manager"]
+	path = tmux-plugin-manager
+	url = https://github.com/tmux-plugins/tpm
+[submodule "i3lock-color"]
+	path = i3lock-color
+	url = git@github.com:Raymo111/i3lock-color.git
