@@ -28,3 +28,6 @@
 [submodule "i3lock-color"]
 	path = i3lock-color
 	url = git@github.com:Raymo111/i3lock-color.git
+[submodule "i3lock-fancy"]
+	path = i3lock-fancy
+	url = https://github.com/meskarune/i3lock-fancy
